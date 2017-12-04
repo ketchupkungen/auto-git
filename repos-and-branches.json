@@ -4,7 +4,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart reverse-proxy"
+      "pm2 restart reverse-proxy --silent"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart certbot-helper"
+      "pm2 restart certbot-helper --silent"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart phantom-example"
+      "pm2 restart phantom-example --silent"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart First-blog"
+      "pm2 restart First-blog --silent"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart domain-main-page"
+      "pm2 restart domain-main-page --silent"
     ]
   },
   {
@@ -44,7 +44,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart testapp"
+      "pm2 restart testapp --silent"
     ]
   },
   {
@@ -52,7 +52,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart example"
+      "pm2 restart example --silent"
     ]
   },
   {
@@ -60,7 +60,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart auto-git"
+      "pm2 restart auto-git --silent"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart real-estate"
+      "pm2 restart real-estate --silent"
     ]
   },
   {
@@ -76,7 +76,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart mdb-full-project"
+      "pm2 restart mdb-full-project --silent"
     ]
   }
 ]

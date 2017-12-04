@@ -3,7 +3,7 @@ const path = require('path');
 const basePath = '/var/www';
 const repoInfo = require('./repos-and-branches.json');
 const pm = require('promisemaker');
-const exec = pm(require('child_process').exec);
+const exec = pm(require('child_process')).exec;
 
 // Checkout a branch and make a pull for that branch
 async function pull(repoPath, branch, run){
