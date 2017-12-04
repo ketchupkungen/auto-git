@@ -1,0 +1,23 @@
+{
+  "name": "auto-git",
+  "version": "1.0.0",
+  "description": "Pull the latest commits from a certain branch for a bunch of repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketchupkungen/auto-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketchupkungen/auto-git/issues"
+  },
+  "homepage": "https://github.com/ketchupkungen/auto-git#readme",
+  "dependencies": {
+    "nodegit": "^0.20.3",
+    "simple-git": "^1.84.0"
+  }
+}

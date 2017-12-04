@@ -1,0 +1,7 @@
+[
+  {"path": "reverse-proxy", "branch": "master"},
+  {"path": "certbot-helper", "branch": "master"},
+  {"path": "testapp", "branch": "master"},
+  {"path": "example", "branch": "master"},
+  {"path": "auto-git", "branch": "master"}
+]
