@@ -40,14 +40,6 @@
     ]
   },
   {
-    "path": "testapp",
-    "branch": "master",
-    "run": [
-      "npm install",
-      "pm2 restart testapp --silent"
-    ]
-  },
-  {
     "path": "auto-git",
     "branch": "master",
     "run": [
