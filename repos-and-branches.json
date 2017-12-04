@@ -24,11 +24,11 @@
     ]
   },
   {
-    "path": "First-blog",
+    "path": "First-blogg",
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart First-blog --silent"
+      "pm2 restart First-blogg --silent"
     ]
   },
   {
