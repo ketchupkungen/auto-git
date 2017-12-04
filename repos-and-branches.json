@@ -1,7 +1,12 @@
 [
   {"path": "reverse-proxy", "branch": "master"},
   {"path": "certbot-helper", "branch": "master"},
+  {"path": "phantom-example", "branch": "master"},
+  {"path": "First-blog", "branch": "master"},
+  {"path": "domain-main-page", "branch": "master"},
   {"path": "testapp", "branch": "master"},
   {"path": "example", "branch": "master"},
-  {"path": "auto-git", "branch": "master"}
+  {"path": "auto-git", "branch": "master"},
+  {"path": "real-estate", "branch": "master"},
+  {"path": "mdb-full-project", "branch": "master"}
 ]

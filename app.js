@@ -29,4 +29,4 @@ setInterval(()=>{
     pull(path.join(basePath, repo.path), repo.branch);
   }
 
-}, 10000);
+}, 600000);
