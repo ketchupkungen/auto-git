@@ -52,6 +52,7 @@
     "branch": "master",
     "run": [
       "npm install",
+      "npm run build",
       "pm2 restart real-estate --silent"
     ]
   },
